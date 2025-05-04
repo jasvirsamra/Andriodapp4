@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidApp4</string>
+    <string name="welcome_to_quizmaster">Welcome to QuizMaster!</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="iq_frenzy">IQ Frenzy</string>
+    <string name="please_select_a_category">Please select a category</string>
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="science">Science</string>
+    <string name="history">History</string>
+    <string name="movies">Movies</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="next">Next</string>
+    <string name="question_text">Question Text</string>
+    <string name="score">Score:</string>
+    <string name="result_message_here">Result message here</string>
+    <string name="detailed_results_will_be_shown_here">Detailed results will be shown here</string>
+    <string name="retry_quiz">Retry Quiz</string>
+</resources>
